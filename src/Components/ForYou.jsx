@@ -3,7 +3,9 @@ import '../Styles/ForYou.css';
 import Bali from '../Images/bali.webp';
 import Swiss from '../Images/swiss.jpg';
 import Rome from '../Images/rome.webp';
-import Ayodhya from '../Images/ayodhya.webp'
+import Ayodhya from '../Images/ayodhya.webp';
+import Kerala from '../Images/kerala.jpg';
+import Dhwaraka from '../Images/dhwaraka.webp'
 
 const ForYou = () => {
   // Sample data for personalized recommendations
@@ -27,6 +29,16 @@ const ForYou = () => {
       title: 'Discover the History of Ayodhya',
       description: 'Visit the historic landmarks and indulge History of Lord Rama.',
       Image: Ayodhya,
+    },
+    {
+      title: 'Explore The Beauty Of Kerala ',
+      description: 'Enjoy The Beautiful Water Ways & Pleasant Nature .',
+      Image: Kerala,
+    },
+    {
+      title: 'Discover The History Of Ancient Dhwaraka',
+      description: 'Visit the historic landmarks and indulge History of Lord Srikrishna.',
+      Image: Dhwaraka,
     }
   ];
 
