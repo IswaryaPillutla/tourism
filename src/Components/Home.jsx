@@ -14,7 +14,7 @@ const Home = () => {
           Your ultimate guide to discovering the most amazing destinations around the world.
           We are dedicated to helping you find the perfect places to visit and explore.
           Whether you're seeking adventure, relaxation, or cultural experiences, we have
-          something for everyone. Join us on a journey to uncover the wonders of the world!
+          something for everyone. Join us on a journey to uncover the wonders of the world! this is the most used.
         </p>
       </div>
     </div>
